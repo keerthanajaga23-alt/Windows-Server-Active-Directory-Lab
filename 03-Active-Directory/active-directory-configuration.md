@@ -8,7 +8,7 @@ Active Directory Domain Services (AD DS) was configured on the Windows Server 20
 
 | Configuration     | Value          |
 | ----------------- | -------------- |
-| Domain Controller | APEXTECH-DC1   |
+| Domain Controller | APEXTECH-01   |
 | Domain            | apextech.local |
 | NetBIOS Name      | APEXTECH       |
 | DNS Server        | 192.168.10.10  |
