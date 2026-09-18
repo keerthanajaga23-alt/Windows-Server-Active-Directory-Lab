@@ -30,7 +30,7 @@ The main objectives of this project were to:
 | Domain Controller | Windows Server 2022 Desktop Experience |
 | Client            | Windows 11 Pro                         |
 | Domain            | `apextech.local`                       |
-| Domain Controller | `APEXTECH-DC1`                         |
+| Domain Controller | `APEXTECH-01`                         |
 | DC IP Address     | `192.168.10.10`                        |
 | Client IP Address | `192.168.10.20`                        |
 | Network           | VirtualBox Internal Network            |
@@ -46,7 +46,7 @@ The lab consists of a Windows Server 2022 Domain Controller and a Windows 11 cli
                          |
              +-----------+-----------+
              |                       |
-     APEXTECH-DC1              Windows 11 Client
+     APEXTECH-01              APEXTECH-CLIENT01
    Windows Server 2022          Windows 11 Pro
      192.168.10.10              192.168.10.20
              |
