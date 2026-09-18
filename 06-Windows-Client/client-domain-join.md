@@ -6,16 +6,16 @@ A Windows 11 Pro virtual machine was created using Oracle VirtualBox and connect
 
 ### Client Details
 
-| Configuration    | Value           |
-| ---------------- | --------------- |
-| Operating System | Windows 11 Pro  |
-| Computer Name    | DESKTOP-P0GNKL3 |
-| Network          | Corporate-LAN   |
-| IP Address       | 192.168.10.20   |
-| Subnet Mask      | 255.255.255.0   |
-| Default Gateway  | Not configured  |
-| DNS Server       | 192.168.10.10   |
-| Domain           | apextech.local  |
+| Configuration    | Value            |
+| ---------------- | ---------------  |
+| Operating System | Windows 11 Pro   |
+| Computer Name    | APEXTECH-CLIENT01|
+| Network          | Corporate-LAN    |
+| IP Address       | 192.168.10.20    |
+| Subnet Mask      | 255.255.255.0    |
+| Default Gateway  | Not configured   |
+| DNS Server       | 192.168.10.10    |
+| Domain           | apextech.local   |
 
 ## 2. VirtualBox Network Configuration
 
