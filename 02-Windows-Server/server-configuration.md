@@ -9,7 +9,7 @@ A Windows Server 2022 virtual machine was created using Oracle VirtualBox as par
 | Configuration    | Value                                  |
 | ---------------- | -------------------------------------- |
 | Operating System | Windows Server 2022 Desktop Experience |
-| Server Name      | APEXTECH-DC1                           |
+| Server Name      | APEXTECH-01                            |
 | Server Role      | Domain Controller                      |
 | Domain           | apextech.local                         |
 | NetBIOS Name     | APEXTECH                               |
